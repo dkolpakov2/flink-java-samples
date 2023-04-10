@@ -1,0 +1,8 @@
+target/
+.settings
+bin/
+StateExample/target/
+StateExample/bin/
+StateStream/target/
+StateStream/bin/
+StateExample/DKStream
